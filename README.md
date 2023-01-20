@@ -8,4 +8,4 @@
 kolluria/kolluria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://app.daily.dev/mugiwara"><img src="https://raw.githubusercontent.com/kolluria/kolluria/main/devcard.svg" width="400" alt="Kolluri's Dev Card"/></a>
+<a href="https://app.daily.dev/mugiwara"><img src="https://github.com/kolluria/kolluria/blob/main/devcard.svg" width="400" alt="Kolluri's Dev Card"/></a>
