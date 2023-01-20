@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - devcard
+      - main
   schedule:
     - cron: "0 0 * * *"
     
